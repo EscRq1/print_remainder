@@ -3,7 +3,7 @@
 
 Options: --mark-printed, --set-interval DAYS, --status, --config PATH.
 Windows: put this script beside the shared print_reminder.json.
-Linux Mint: install python3-tk for the warning window and Copy command button.
+Linux: install python3-tk for the warning window and Copy command button.
 Launch from your desktop session. Copying does not record a print.
 """
 
